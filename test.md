@@ -48,4 +48,7 @@ https://www.cnblogs.com/leeyongbard/p/9777498.html
 3、Git 命令总结
 4、Git 相关文档
 
+
+git初始化
+GitHub如何配置SSH Key
 https://www.jianshu.com/p/f98ed938f91a
